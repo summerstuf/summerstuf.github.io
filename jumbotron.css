@@ -25,11 +25,14 @@ body {
 
 h1{
   font-family: "condensed";
-  letter-spacing: 10px;
+  letter-spacing: 5px;
+  color: gray;
+  position: relative;
+  bottom: 50px;
 }
 
 ul {
-  color: white;
+  color: gray;
   /*display: inline-block;*/
 }
 
@@ -137,10 +140,11 @@ medium {
 }
 
 .main-wrapper {
-  background-image: url("static/images/flr-equip-pic.png");
+  background-image: url("static/images/");
   background-size: cover;
   margin-bottom: 10px;
   background-position: center;
+  color: gray;
 }
 
 .jumbotron {
@@ -148,6 +152,7 @@ medium {
   color: white;
   position: relative;
   top: 75px;
+  color: darkgray;
 }
 
 .container {
