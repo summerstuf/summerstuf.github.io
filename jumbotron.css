@@ -78,7 +78,8 @@ h4 {
 }
 
 .tops {
-  margin: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .schedule-pic > img {
