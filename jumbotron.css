@@ -26,13 +26,13 @@ body {
 h1{
   font-family: "condensed";
   letter-spacing: 5px;
-  color: gray;
+  color: white;
   position: relative;
   bottom: 50px;
 }
 
 ul {
-  color: gray;
+  color: white;
   /*display: inline-block;*/
 }
 
@@ -44,19 +44,25 @@ li {
 
 .navbar-inverse {
   /*background: none;*/
-  background: white;
+  background: #3399ff;
+  padding: 10px;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+  background: #3399ff;
 }
 
 .navbar {
-  background-color: none;
   border: none;
   font-family: "condensed";
+  background-color: #3399ff;
+  color: white;
 }
 
 .navbar-brand {
-  padding: 20px;
   letter-spacing: 3px;
-  background-color: white;
+  background-color: #3399ff;
 }
 
 
@@ -144,7 +150,7 @@ medium {
   background-size: cover;
   margin-bottom: 10px;
   background-position: center;
-  color: gray;
+  color: #3399ff;
 }
 
 .jumbotron {
@@ -152,7 +158,7 @@ medium {
   color: white;
   position: relative;
   top: 75px;
-  color: darkgray;
+  color: #3399ff;
 }
 
 .container {
