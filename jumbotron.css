@@ -11,15 +11,16 @@ body {
 }
 
 .btn {
-  background: black;
+  background: orange;
   color: white;
   padding: 15px;
   border: none;
-  color: #9d9d9d;
+  font-size: 20px;
+  margin-top: 20px;
 }
 
 .btn:hover {
-  background: black;
+  background: green;
   color: white;
 }
 
@@ -227,63 +228,20 @@ textarea {
   padding-right: 50px;
 }
 
-.class-pic {
-  width: 100%;
-}
-
-.bag-gif {
-  width: 100%;
-  height: 500px;
-}
-
-.bag-gif > img {
-  width: 100%;
-  height: 500px;
-}
-
-.training-cont {
-  margin-top: -125px;
-}
-
-.training>p {
-  font-size: 30px;
-  padding: 20px;
-  letter-spacing: 5px;
-}
-
-.training {
-  color: white;
-  /*margin-bottom: 100px;*/
-  line-height: 30px;
-  letter-spacing: 2px;
-  padding-top: 100px;
-  padding-left: 100px;
-  padding-right: 100px;
-  padding-bottom: 100px;
-}
-
-#functional {
-  /*background-image: url("static/images/weights-dark.png");*/
-  /*background: rgba(0, 0, 0, 0.75);*/
-  background-size: cover;
-}
-
-.weights-flr {
-  width: 100%;
-  opacity: .2;
-}
-
-.weights-flr > img {
-  width: 100%;
-}
-
-.gallery-wrapper > img {
-  
-}
-
 .content>p{
   font-size: 14px;
 }
+
+/*Below is CSS for product pages*/
+.info-product-title {
+  color: black;
+}
+
+.product-page-item {
+  margin-top: 50px;
+}
+
+/*End of CSS for product pages*/
 
 .footer-home {
   position: relative;
