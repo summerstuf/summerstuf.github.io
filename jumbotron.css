@@ -187,10 +187,9 @@ medium {
   margin-bottom: 100px;
 }
 
-footer {
-  /*position: absolute;
-  bottom: 0px;*/
-  color: white;
+.footer-home {
+  margin-top: 100px;
+  color: #3399ff;
 }
 
 .form {
@@ -242,16 +241,6 @@ textarea {
 }
 
 /*End of CSS for product pages*/
-
-.footer-home {
-  position: relative;
-  top: 0px;
-}
-
-.footer-container {
-  position: relative;
-  top: 150px;
-}
 
 .sasstester {
   color: blue;
