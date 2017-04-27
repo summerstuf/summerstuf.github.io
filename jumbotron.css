@@ -10,6 +10,13 @@ body {
   background-color: White;
 }
 
+.tops {
+  border: 2px solid gray;
+  border-radius: 1%;
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
+
 .direct-amazon-link {
   width: 550px;
   height: 50px;
