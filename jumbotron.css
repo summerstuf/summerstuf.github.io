@@ -126,18 +126,13 @@ h4 {
 }
 
 
-@media(max-width: 992px){
+@media(max-width: 993px){
    img {
     width: 400px;
     margin: 5%;
   }
 }
 
-video {
-  /*opacity: .5;*/
-  /*text-align: center;*/
-  width: 100vw;
-}
 medium {
   line-height: 2;
   word-spacing: 2px;
