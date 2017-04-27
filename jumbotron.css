@@ -125,9 +125,7 @@ h4 {
   letter-spacing: 2px;
 }
 
-img {
-  width: auto;
-}
+
 @media(max-width: 992px){
    img {
     width: 400px;
